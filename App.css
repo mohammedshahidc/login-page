@@ -1,0 +1,72 @@
+*{
+  overflow: hidden;
+  background-color: darkgray;
+  
+}
+.App {
+  text-align: center;
+ 
+}
+
+.form{
+  background-color: black;
+  color: black;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  display: inline-block;
+  margin: 100px;
+  padding: 10px;
+  
+}
+.name{
+  padding: 10px;
+  
+}
+.secondname{
+  padding: 10px;
+}
+.email{
+  padding: 10px;
+}
+.password{
+  padding: 10px;
+}
+.cpassword{
+  padding: 10px;
+}
+#reg{
+  padding: 10px;
+  background-color: yellow;
+  margin-top: 10px;
+}
+#reg:hover{
+background-color: yellowgreen;
+}
+input{
+  background-color: white;
+  height: 25px;
+}
+.ccform{
+
+
+  background-color: black;
+  color: black;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  display: inline-block;
+  margin: 100px;
+  padding: 10px;
+  
+  
+}
+#img{
+  height: 400px;
+  width: 500px;
+ 
+}
+.ig{
+  background-color: white;
+  padding: 10px;
+}
